@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Ahmed Raza
 
-### React.js Developer | Frontend Web Developer 🇵🇰
+### React.js Developer | MernStack Web Developer 🇵🇰
 
 Building responsive and user-friendly web experiences.
 
